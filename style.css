@@ -1,0 +1,21 @@
+.box{
+    background-color: rgb(219, 214, 214);
+    padding:30px 60px;
+}
+
+
+.fa-brands{
+    color: blue;
+    font-size: 40px;
+}
+
+
+
+.box-part{
+    background-color: white;
+    text-align: center;
+    padding: 50px 10px;
+    margin:15px 20px 25px 20px;
+    border-radius: 10px;
+}
+
